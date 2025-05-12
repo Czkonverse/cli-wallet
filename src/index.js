@@ -161,11 +161,6 @@ program
         console.log(`🔍 https://sepolia.etherscan.io/tx/${hash}`);
     });
 
-
-
-
-
-
 // ===== erc20-balance 命令 =====
 program
     .command('erc20-balance')
