@@ -1,0 +1,12 @@
+# 忽略 Node.js 依赖
+node_modules/
+
+# 忽略 dotenv 文件，避免私钥/API 泄露
+.env
+
+# 忽略日志、系统文件
+*.log
+.DS_Store
+
+# 忽略 VSCode 配置（如果你用 VSCode）
+.vscode/
