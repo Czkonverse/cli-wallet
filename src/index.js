@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import {
     createPublicClient,
-    createWalletClient,
     http,
     formatEther,
     parseUnits,
